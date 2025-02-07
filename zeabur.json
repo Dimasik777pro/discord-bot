@@ -1,0 +1,15 @@
+{
+  "services": {
+    "bot": {
+      "build": {
+        "cmd": "pip install -r requirements.txt"
+      },
+      "run": {
+        "cmd": "bash start.sh"
+      },
+      "env": {
+        "TOKEN": "$TOKEN"
+      }
+    }
+  }
+}
