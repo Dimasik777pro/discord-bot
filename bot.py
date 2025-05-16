@@ -460,4 +460,4 @@ async def help_command(interaction: discord.Interaction):
 
 
 # Запуск бота
-bot.run('MTI1MzY4MzgxMTA1NzkzMDMyMg.GRd21K._LnfC_6IpXrcFmf2TkG4m99F9r55dBN99DnqDM')
+bot.run('')
